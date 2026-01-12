@@ -22,16 +22,16 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
-| Day 1 morning     | - | - | Setting up Tools Google Colab and Github and basics of data types| 
-| Day 1 afternoon   | - | - | Control flow|
-| Day 2 morning     | - | - | Reading data, arithmetics and functions|
-| Day 2 afternoon   | - | - | Excersise: 'SARS-Cov-2 sequence' |
-| Day 3 morning     | - | - | Numpy arrays and plots|
-| Day 3 afternoon   | - | - | Excersise: 'Chile: COVID data'|
-| Day 4 morning     | - | - | Derivatives|
-| Day 4 afternoon   | - | - | Integrals and Convolutional filters|
-| Day 5 morning     | - | - | Linear equations|
-| Day 5 afternoon   | - | - |  Filtering and Fourier Transform |
+| Day 1 morning     | - | - | | 
+| Day 1 afternoon   | - | - | |
+| Day 2 morning     | - | - | |
+| Day 2 afternoon   | - | - | |
+| Day 3 morning     | - | - | |
+| Day 3 afternoon   | - | - | |
+| Day 4 morning     | - | - | |
+| Day 4 afternoon   | - | - | |
+| Day 5 morning     | - | - | |
+| Day 5 afternoon   | - | - | |
 
 
 ## **Send your work for feedback!!!**
