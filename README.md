@@ -26,7 +26,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 | Day 1 afternoon   | - | - | Control flow|
 | Day 2 morning     | - | - | Reading data, arithmetics and functions|
 | Day 2 afternoon   | - | - | Excersise: 'SARS-Cov-2 sequence' |
-| Day 3 morning     | - | - | Numpy, Matlab arrays and plots|
+| Day 3 morning     | - | - | Numpy arrays and plots|
 | Day 3 afternoon   | - | - | Excersise: 'Chile: COVID data'|
 | Day 4 morning     | - | - | Derivatives|
 | Day 4 afternoon   | - | - | Integrals and Convolutional filters|
@@ -63,7 +63,7 @@ Check out the incredible speakers we had throughout the week
     * Course description and objectives
     * Coding at IIBM
 2. Setting up Tools
-    * Google Colab (Python)https://ingenieriabiologicaymedica.uc.cl/en/people/pablo-irarrazaval/    * Matlab (See below for download )
+    * Google Colab (Python)
     * Github
 ### *Python*
 3. Basic data types 
