@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: cgvalle/IIBM-BootCamp-2025
+          target_repository: GGarrido013/IIBM-Bootcamp-2026
           update: true
 
       - name: Commit & Push changes
