@@ -22,8 +22,8 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
-| Day 1 morning     | https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Morning_tools_elemental_python.ipynb | - | | 
-| Day 1 afternoon   | - | - | |
+| Day 1 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | - | | 
+| Day 1 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Afternoon_controlFlow.ipynb) | - | |
 | Day 2 morning     | - | - | |
 | Day 2 afternoon   | - | - | |
 | Day 3 morning     | - | - | |
