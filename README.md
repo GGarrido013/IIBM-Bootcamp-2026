@@ -22,9 +22,9 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
-| Day 1 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | - | | 
-| Day 1 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Afternoon_controlFlow.ipynb) | - | |
-| Day 2 morning     | - | - | |
+| Day 1 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | | | 
+| Day 1 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/main/D1/D1Afternoon_controlFlow.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/e8d79eb5f245a300e8016c8af53524dcd3d32de6/D1/D1Afternoon_controlFlow_SOLUTION.ipynb) | |
+| Day 2 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/89db096c2b049ff4a16849ae8ac24cd2fe96152f/D2/D2Morning.ipynb) | - | |
 | Day 2 afternoon   | - | - | |
 | Day 3 morning     | - | - | |
 | Day 3 afternoon   | - | - | |
