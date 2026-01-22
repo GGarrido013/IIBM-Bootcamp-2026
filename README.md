@@ -29,7 +29,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 | Day 3 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/1a1fa83a8815b0531c6a8e2721facb9ee7130e71/D3/D3_morning_numpy_matplotlib.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/95c389fd35add59099e1f3a5f33b6a370eaa73ab/D3/D3_morning_numpy_matplotlib_SOLUTION.ipynb) | |
 | Day 3 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/29a5b2a4fe345f9138ba3ec11d7a6e11d1adbc95/D3/D3_Afternoon_covid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/95c389fd35add59099e1f3a5f33b6a370eaa73ab/D3/D3_Afternoon_covid_SOLUTION.ipynb) | |
 | Day 4 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/2dc8b533f07234681786f479f25eb240909c5d4f/D4/D4Morning_derivatives.ipynb) | - | |
-| Day 4 afternoon   | - | - | |
+| Day 4 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/0559ac1d96c5ea9530bfe2c3cc74d6a8cfea34ba/D4/D4Afternoon_Integrals.ipynb) | - | |
 | Day 5 morning     | - | - | |
 | Day 5 afternoon   | - | - | |
 
