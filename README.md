@@ -31,7 +31,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 | Day 4 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/2dc8b533f07234681786f479f25eb240909c5d4f/D4/D4Morning_derivatives.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/ccc11c574e8b930ce870a5a234355bb9c0a8b9bb/D4/D4Morning_derivatives_SOLUTION.ipynb) | |
 | Day 4 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/0559ac1d96c5ea9530bfe2c3cc74d6a8cfea34ba/D4/D4Afternoon_Integrals.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/68b7c488acbd08714a691d8ee3f690aa2ceda0ff/D4/D4Afternoon_Integrals_SOLUTION.ipynb) | |
 | Day 5 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/d27dd4356aebe37d1fbedd9212d8bc3535b78d6e/D5/D5Morning_Solving_linearequation.ipynb) | - | |
-| Day 5 afternoon   | - | - | |
+| Day 5 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GGarrido013/IIBM-Bootcamp-2026/blob/31e017ea2f573c9f5a740ecdab7bca1478564bc3/D5/D5Afternoon_fourier_filtering.ipynb) | - | |
 
 
 ## **Send your work for feedback!!!**
